@@ -2,5 +2,4 @@
 - 👀 I’m interested in Python, SQL and traveling
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: e-mail. mayakovsky.il@google.com
--                     inst. @ilyamayakovsky
+- 📫 How to reach me: e-mail/ mayakovsky.il@google.com; instagram/ @ilyamayakovsky
