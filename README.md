@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Jopel003
-- 👀 I’m interested in Python, SQL and traveling
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate in the development of interesting and unusual projects
-- 📫 How to reach me: e-mail/ mayakovsky.il@google.com; instagram/ @ilyamayakovsky
+- 👀 I’m passionate about **Python**, **SQL**, and exploring the world through **traveling**.
+- 🌱 Currently, I’m diving deep into the realm of **Data Science**, constantly expanding my skills and knowledge.
+- 💞️ I'm eager to collaborate on **innovative and unique projects** that push the boundaries of what's possible.
+- 📫 **How to reach me**:
+  - Email: [mayakovsky.il@google.com](mailto:mayakovsky.il@google.com)
+  - Instagram: [@ilyamayakovsky](https://www.instagram.com/ilyamayakovsky)
